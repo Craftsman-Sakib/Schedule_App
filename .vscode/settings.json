@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "try,dart": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
